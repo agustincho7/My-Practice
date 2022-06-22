@@ -92,7 +92,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("../img/pantalla.jpg");
+    ,url(../img/pantalla.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -145,7 +145,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("../img/uno.jpg");
+    ,url(../img/uno.jpg);
 }
 
 .carta:nth-child(2){
@@ -154,7 +154,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("../img/dos.jpg");
+    ,url(../img/dos.jpg);
 }
 
 .carta:nth-child(3){
@@ -163,7 +163,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("../img/tres.jpg");
+    ,url(../img/tres.jpg);
 }
 
 #caracteristicas .container{
@@ -254,7 +254,7 @@ footer .container{
 }
 
     #somos-proya .img-container{
-        background-image: url("../img/luchito.jfif");
+        background-image: url(../img/luchito.jfif);
         background-size: cover;
         background-position: center center;
         height: 500px;
@@ -287,7 +287,7 @@ footer .container{
             rgba(0,0,0,0.5),
             rgba(0,0,0,0.5)
         )
-        ,url("/img/uno.jpg")
+        ,url(../img/uno.jpg)
     }
 
     .carta:nth-child(2){
@@ -296,7 +296,7 @@ footer .container{
             rgba(0,0,0,0.5),
             rgba(0,0,0,0.5)
         )
-        ,url("/img/dos.jpg")
+        ,url(../img/dos.jpg)
     }
 
     .carta:nth-child(3){
@@ -305,11 +305,11 @@ footer .container{
             rgba(0,0,0,0.5),
             rgba(0,0,0,0.5)
         )
-        ,url("/img/tres.jpg")
+        ,url(../img/tres.jpg)
     }
 
     #caracteristicas{
-        background-image: url("/img/conejito.jfif");
+        background-image: url(../img/conejito.jfif);
         background-repeat: no-repeat;
         background-size: 500px 400px;
         background-position: calc(100vw - 500px) 120px;
